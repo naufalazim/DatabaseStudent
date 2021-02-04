@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
 public class Main {
 	
 	
-	// ====================WARNING: COPYRIGHT BY NAUFAL AZIM 2021 FINAL EXAM SEM 1 FUNDAMENTAL OF PROGRAMMING (JAVA)=================================== 
+	// ====================WARNING: COPYRIGHT BY NAUFAL AZIM 2021 =================================== 
 	
 	
 	
